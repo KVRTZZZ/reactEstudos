@@ -1,0 +1,10 @@
+.fraseconteiner{
+    background-color: red;
+    line-height: 20px;
+    color: blue;
+}
+
+.frasecontent{
+    background-color: gray;
+    color: green;
+}
